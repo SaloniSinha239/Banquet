@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-u!6purvvemwm*5p6=e9_^et+p!ik+t&+gx$o9k-acs#pvx34mc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['manju-vatika-v1.onrender.com','127.0.0.1','sameer29.pythonanywhere.com']
+ALLOWED_HOSTS = ['manju-vatika-v1.onrender.com','127.0.0.1','saloni444.pythonanywhere.com']
 
 
 # Application definition
